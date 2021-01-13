@@ -1,2 +1,1 @@
-# Backend_Project
-Note Taking App
+# Backend_Projects
